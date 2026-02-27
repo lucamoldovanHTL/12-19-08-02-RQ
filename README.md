@@ -2,3 +2,6 @@
 
 
 Jakob
+
+Keine Diskussionen, nur Format prüfen
+Niemand ändert Zeilen anderer -nur eigene Zeilen
